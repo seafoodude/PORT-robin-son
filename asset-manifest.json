@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PORT-robin-son/static/css/main.0b4287c4.css",
-    "main.js": "/PORT-robin-son/static/js/main.c76bd39e.js",
+    "main.css": "/PORT-robin-son/static/css/main.effd24a0.css",
+    "main.js": "/PORT-robin-son/static/js/main.d6a76781.js",
     "static/js/787.88b54629.chunk.js": "/PORT-robin-son/static/js/787.88b54629.chunk.js",
     "static/media/starrysky-bckgrd.jpg": "/PORT-robin-son/static/media/starrysky-bckgrd.f809f197bc2818d2b54b.jpg",
     "static/media/in_frunk.jpg": "/PORT-robin-son/static/media/in_frunk.3479a41a4fca51a9a972.jpg",
@@ -15,12 +15,12 @@
     "static/media/notetaker.PNG": "/PORT-robin-son/static/media/notetaker.2c1b3db98cb28d4d95a7.PNG",
     "static/media/me.jpg": "/PORT-robin-son/static/media/me.09ad7db3918329af8ec7.jpg",
     "index.html": "/PORT-robin-son/index.html",
-    "main.0b4287c4.css.map": "/PORT-robin-son/static/css/main.0b4287c4.css.map",
-    "main.c76bd39e.js.map": "/PORT-robin-son/static/js/main.c76bd39e.js.map",
+    "main.effd24a0.css.map": "/PORT-robin-son/static/css/main.effd24a0.css.map",
+    "main.d6a76781.js.map": "/PORT-robin-son/static/js/main.d6a76781.js.map",
     "787.88b54629.chunk.js.map": "/PORT-robin-son/static/js/787.88b54629.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b4287c4.css",
-    "static/js/main.c76bd39e.js"
+    "static/css/main.effd24a0.css",
+    "static/js/main.d6a76781.js"
   ]
 }
