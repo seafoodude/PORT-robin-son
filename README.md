@@ -39,7 +39,7 @@ This project is licensed under the MIT license.
 
 ![Home](./src/assets/homeSS.PNG)
 ![About](./src/assets/aboutSS.PNG)
-![Experiences](./src/assets/)
+![Experiences](./src/assets/experienceSS.PNG)
 ![Projects](./src/assets/portfolioSS.PNG)
 ![Contact](./src/assets/contactSS.PNG)
 
@@ -50,7 +50,7 @@ N/A
 ## Questions
 
 Github Profile: [seafoodude](https://github.com/seafoodude)
-Email: [seafoodude@gmail.com](seafoodude@gmail.com)
+Email: [michaelhuang777@gmail.com](michaelhuang777@gmail.com)
 
 ## Contributing
 
