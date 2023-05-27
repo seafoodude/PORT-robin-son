@@ -28,7 +28,7 @@ const Contact = () => {
                         <MdOutlineEmail className='contact__option-icon' />
                         <h4>Email</h4>
                         <h5>michaelhuang777@gmail.com</h5>
-                        <a href="mailto:michaelhuang777@gmail.com" target="_blank">Send a message</a>
+                        <a href="mailto:michaelhuang777@gmail.com" target="_blank" className="lighten">Send a message</a>
                     </article>
                     {/* <article className="contact__option">
             <RiMessengerLine/>
@@ -48,7 +48,7 @@ const Contact = () => {
                     <input type="text" name='name' placeholder='Your Full Name' required />
                     <input type="email" name='email' placeholder='Your Email' required />
                     <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
-                    <button type='submit' className='btn btn-primary'>Send Message</button>
+                    <button type='submit' className='btn btn-primary lighten'>Send Message</button>
                 </form>
             </div>
         </section>
