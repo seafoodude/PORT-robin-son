@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/port-robin-son/static/css/main.4e22ee79.css",
+    "main.js": "/port-robin-son/static/js/main.34913361.js",
+    "static/js/787.88b54629.chunk.js": "/port-robin-son/static/js/787.88b54629.chunk.js",
+    "static/media/starrysky-bckgrd.jpg": "/port-robin-son/static/media/starrysky-bckgrd.f809f197bc2818d2b54b.jpg",
+    "static/media/in_frunk.jpg": "/port-robin-son/static/media/in_frunk.3479a41a4fca51a9a972.jpg",
+    "static/media/gigrabber.PNG": "/port-robin-son/static/media/gigrabber.3baf338e8624af00c731.PNG",
+    "static/media/project2.PNG": "/port-robin-son/static/media/project2.79fc90f100545409d024.PNG",
+    "static/media/waterbattle.PNG": "/port-robin-son/static/media/waterbattle.47089d18ee41a61b1ccf.PNG",
+    "static/media/portfolio1.PNG": "/port-robin-son/static/media/portfolio1.9a0cacb6a9d4ba6d9215.PNG",
+    "static/media/MHresume.pdf": "/port-robin-son/static/media/MHresume.82040052fdde7fe1172a.pdf",
+    "static/media/codequiz.PNG": "/port-robin-son/static/media/codequiz.85b7f6a8dabf27630ed0.PNG",
+    "static/media/booksearch.PNG": "/port-robin-son/static/media/booksearch.6d9df20388d56a7d738d.PNG",
+    "static/media/notetaker.PNG": "/port-robin-son/static/media/notetaker.2c1b3db98cb28d4d95a7.PNG",
+    "static/media/me.jpg": "/port-robin-son/static/media/me.09ad7db3918329af8ec7.jpg",
+    "index.html": "/port-robin-son/index.html",
+    "main.4e22ee79.css.map": "/port-robin-son/static/css/main.4e22ee79.css.map",
+    "main.34913361.js.map": "/port-robin-son/static/js/main.34913361.js.map",
+    "787.88b54629.chunk.js.map": "/port-robin-son/static/js/787.88b54629.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e22ee79.css",
+    "static/js/main.34913361.js"
+  ]
+}
